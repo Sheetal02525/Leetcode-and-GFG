@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution {
+class Solution {
     public static List< Integer > superiorElements(int []a) {
         // Write your code here.
         int n=a.length;

@@ -7,7 +7,7 @@ class Pair{
         this.second=second;
     }
 }
-public class Solution {
+class Solution {
     static class Graph {
         boolean detectCycle(int V, List<List<Integer>> adj) {
             // Write your code here.
