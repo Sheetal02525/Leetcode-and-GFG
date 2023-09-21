@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public int minOperations(int[] nums, int x) {
         int sum=0;
