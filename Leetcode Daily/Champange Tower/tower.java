@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public double champagneTower(int poured, int query_row, int query_glass) {
         // Initialize the current level with the poured amount in the top glass
